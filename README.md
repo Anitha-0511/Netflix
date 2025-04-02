@@ -14,3 +14,6 @@ Genre – Highlights the category of the movie.
 
 Movie Name – Name of the movie with respect to the movie id.
 
+<img width="606" alt="image" src="https://github.com/user-attachments/assets/f249bb33-8dfb-456b-ac44-9f2a73335dc0" />
+
+

@@ -18,3 +18,6 @@ Movie Name – Name of the movie with respect to the movie id.
 
 <img width="602" alt="image" src="https://github.com/user-attachments/assets/88353e3d-801e-459e-8dd0-3d09fff4fa59" />
 
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/246ad27a-1ed4-430a-bc57-4f4fc6f8b3c7" />
+
+
